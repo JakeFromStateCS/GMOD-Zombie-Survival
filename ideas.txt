@@ -1,0 +1,6 @@
+Ideas:
+	Define the person's job based on what actions they do in game/What skills they have
+		- For example, give every player the ability to arrest someone that damages another player
+		  Then based on if they arrest someone x amount of times, you'll be able to claim your job as a cop
+	
+	Add custom pick up sounds per resource
